@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.project.LinearCalculatorTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2024-10-08T14:50:08" hostname="codespaces-b34a70" time="0.241">
+<testsuite name="com.example.project.LinearCalculatorTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2024-10-17T12:56:26" hostname="codespaces-783af8" time="0.31">
   <properties/>
-  <testcase name="testGetX1()" classname="com.example.project.LinearCalculatorTest" time="0.016"/>
-  <testcase name="testGetX2()" classname="com.example.project.LinearCalculatorTest" time="0.002"/>
+  <testcase name="testGetX1()" classname="com.example.project.LinearCalculatorTest" time="0.043"/>
+  <testcase name="testGetX2()" classname="com.example.project.LinearCalculatorTest" time="0.004"/>
   <testcase name="testGetY1()" classname="com.example.project.LinearCalculatorTest" time="0.004"/>
-  <testcase name="testGetY2()" classname="com.example.project.LinearCalculatorTest" time="0.001"/>
-  <testcase name="testSetX1()" classname="com.example.project.LinearCalculatorTest" time="0.001"/>
-  <testcase name="testSetX2()" classname="com.example.project.LinearCalculatorTest" time="0.0"/>
-  <testcase name="testSetY1()" classname="com.example.project.LinearCalculatorTest" time="0.005"/>
-  <testcase name="testSetY2()" classname="com.example.project.LinearCalculatorTest" time="0.006"/>
-  <testcase name="testSlope()" classname="com.example.project.LinearCalculatorTest" time="0.006"/>
-  <testcase name="testYint()" classname="com.example.project.LinearCalculatorTest" time="0.003"/>
-  <testcase name="testPrintInfo1()" classname="com.example.project.LinearCalculatorTest" time="0.088"/>
-  <testcase name="testPrintInfo2()" classname="com.example.project.LinearCalculatorTest" time="0.025"/>
-  <testcase name="testPrintInfo3()" classname="com.example.project.LinearCalculatorTest" time="0.008"/>
-  <testcase name="testPrintInfo4()" classname="com.example.project.LinearCalculatorTest" time="0.005"/>
-  <testcase name="testPrintInfo5()" classname="com.example.project.LinearCalculatorTest" time="0.019"/>
-  <testcase name="testPrintInfo6()" classname="com.example.project.LinearCalculatorTest" time="0.006"/>
-  <testcase name="testDistance()" classname="com.example.project.LinearCalculatorTest" time="0.002"/>
+  <testcase name="testGetY2()" classname="com.example.project.LinearCalculatorTest" time="0.002"/>
+  <testcase name="testSetX1()" classname="com.example.project.LinearCalculatorTest" time="0.002"/>
+  <testcase name="testSetX2()" classname="com.example.project.LinearCalculatorTest" time="0.001"/>
+  <testcase name="testSetY1()" classname="com.example.project.LinearCalculatorTest" time="0.001"/>
+  <testcase name="testSetY2()" classname="com.example.project.LinearCalculatorTest" time="0.005"/>
+  <testcase name="testSlope()" classname="com.example.project.LinearCalculatorTest" time="0.002"/>
+  <testcase name="testYint()" classname="com.example.project.LinearCalculatorTest" time="0.001"/>
+  <testcase name="testPrintInfo1()" classname="com.example.project.LinearCalculatorTest" time="0.139"/>
+  <testcase name="testPrintInfo2()" classname="com.example.project.LinearCalculatorTest" time="0.008"/>
+  <testcase name="testPrintInfo3()" classname="com.example.project.LinearCalculatorTest" time="0.005"/>
+  <testcase name="testPrintInfo4()" classname="com.example.project.LinearCalculatorTest" time="0.012"/>
+  <testcase name="testPrintInfo5()" classname="com.example.project.LinearCalculatorTest" time="0.008"/>
+  <testcase name="testPrintInfo6()" classname="com.example.project.LinearCalculatorTest" time="0.004"/>
+  <testcase name="testDistance()" classname="com.example.project.LinearCalculatorTest" time="0.006"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
